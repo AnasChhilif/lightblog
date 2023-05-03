@@ -1,0 +1,21 @@
+body {
+    margin: 40px auto;
+    max-width: 850px;
+    line-height: 1.6;
+    font-size: 24px;
+    color: #EEEEEE;
+    padding: 0 10px
+}
+
+h1{
+    text-align : center;
+}
+
+h1,
+h2,
+h3,
+p {
+    color: black;
+    line-height: 1.2;
+}
+

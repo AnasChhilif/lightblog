@@ -1,0 +1,60 @@
+body {
+    margin: 40px auto;
+    max-width: 850px;
+    line-height: 1.6;
+    font-size: 24px;
+    color: #EEEEEE;
+    padding: 0 10px
+}
+
+h1{
+    text-align : center;
+}
+
+h1,
+h2,
+h3,
+p {
+    color: black;
+    line-height: 1.2;
+}
+
+.navbar{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 9;
+}
+
+.links-container{
+    display: flex;
+    list-style: none;
+    margin-right: 50px;
+}
+
+.link{
+    padding: 10px;
+    text-decoration: none;
+    margin-left: 10px;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.blogs-section{
+    width: 100%;
+    padding: 50px 5vw;
+}
+
+.blog-overview{
+    margin: 10px 0 20px;
+    line-height: 30px;
+}
+
+a{
+    text-decoration: none;
+}
